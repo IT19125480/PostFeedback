@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PostFeedback</string>
+    <string name="Msg1">Name</string>
+    <string name="Msg2">Send Your Feedback</string>
+    <string name="Msg3">Email</string>
+    <string name="Msg4">Message</string>
+    <string name="Msg5">Send</string>
+    <string name="Msg6">Update</string>
+    <string name="Msg7">Update Message</string>
+    <string name="Msg8">Update message</string>
+    <string name="Msg9">Save</string>
+    <string name="Msg10">Delete</string>
+    <string name="Msg11">Thank You For Your Feedback!!</string>
+
+
+</resources>
